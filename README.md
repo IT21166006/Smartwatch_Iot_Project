@@ -2,6 +2,8 @@
 
 A comprehensive health monitoring project using ESP32, MPU6050 sensor, heart rate sensor, and an OLED display. It tracks steps, detects falls, measures temperature and heart rate, and provides real-time data via a web server.
 
+![WhatsApp Image 2025-04-19 at 12 31 51 AM](https://github.com/user-attachments/assets/3e428aeb-ac0b-4aa9-956c-d95735abf504)
+
 ---
 
 ## ⚙️ Features
@@ -108,9 +110,14 @@ A comprehensive health monitoring project using ESP32, MPU6050 sensor, heart rat
 
 - Add SMS or push notifications on fall detection  
 - Integrate GPS for location tracking  
-- Store historical data for trend analysis  
-- Add more health parameters like SpO2  
+- Store historical data for trend analysis
 
 ---
+
+
+- Add more health parameters like SpO2  
+
+---⚙️ References
+- https://files.fm/u/fsqfnf5rsk
 
 Made with ❤️ using ESP32 and sensors to empower personal health monitoring! 🚀
